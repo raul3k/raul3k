@@ -79,8 +79,16 @@ Key architectural solutions and systems developed throughout my career (private 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raul3k&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Raul's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul3k&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+<table style="border: none; background: transparent;">
+  <tr>
+    <td style="border: none; background: transparent; text-align: center; vertical-align: middle;">
+      <img src="https://github-stats-extended.vercel.app/api?username=raul3k&show_icons=true&theme=dark&hide_rank=true&count_private=true" alt="Raul's GitHub Stats" />
+    </td>
+    <td style="border: none; background: transparent; text-align: center; vertical-align: middle;">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raul3k&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
